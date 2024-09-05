@@ -1,8 +1,8 @@
 // card.stories.js
-import card from './card.twig';
+import card from './HasInclude.twig';
 
 export default {
-  title: 'Components/Card',
+  title: 'Components/HasInclude',
   component: card,
   parameters: {
     layout: 'centered',
